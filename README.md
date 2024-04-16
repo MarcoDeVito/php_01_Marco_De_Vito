@@ -11,7 +11,7 @@ A schermo, fai comparire il tipo di dato delle varie variabili. Trasforma quelle
 
 Traccia 2:
 Date le seguenti variabili:
-
+```
 $1text = "Marco";
 $text2 = "hai";
 $text.3 = "sete";
@@ -20,6 +20,8 @@ $text4 = "?";
 $te-xt6 = '$text2';
 $text 7 = 'bevuto';
 $text8 = "tutto"
+```
+
 correggi eventuali errori e stampa correttamente a terminale la stringa: 
 
 “Marco hai sete? Perché hai bevuto tutto.“
@@ -27,7 +29,7 @@ correggi eventuali errori e stampa correttamente a terminale la stringa:
 
 Traccia 3:
 Dati i seguenti array:
-
+```
 $words1 = [
  'una',
  67,
@@ -70,6 +72,7 @@ $words2 = [
   'ché'
  ]
 ];
+```
 Crea una variabile di tipo Stringa chiamata $results che stampi a terminale il seguente testo, attraverso l’accesso agli array sopra: 
 
 “Nel mezzo del cammin di nostra vita mi ritrovai per una selva oscura, ché la diritta via era smarrita“.
